@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/10826
+
 import kotlin.math.max
 import kotlin.math.pow
 
